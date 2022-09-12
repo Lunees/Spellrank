@@ -1,0 +1,9 @@
+## Interface: 30400
+## Title: Spellrank
+## Notes: Update all your spells on action bars to highest spellrank for wotlk classic with a simple /spellrank command.
+## Author: Artroxa (original addon and codesnippets taken from mckenziemc )
+## Version: 1.0.0
+
+
+Spellrank.lua
+
